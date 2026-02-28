@@ -1,0 +1,141 @@
+Text,Rank,Character,Count,Pinyin,Meaning
+Art of War,1,?,109,bing,Warfare
+Art of War,2,?,76,sheng,Victory
+Art of War,3,?,73,di,Enemy
+Art of War,4,?,69,zhan,Battle
+Art of War,5,?,66,jiang,General
+Art of War,6,?,58,jun,Army
+Art of War,7,?,52,di,Terrain
+Art of War,8,?,49,gong,Attack
+Art of War,9,?,44,qu,Seize
+Art of War,10,?,41,zhi,Know
+Art of War,11,?,39,neng,Ability
+Art of War,12,?,37,yong,Use
+Art of War,13,?,34,qiang,Strong
+Art of War,14,?,32,ruo,Weak
+Art of War,15,?,30,shi,Strategic power
+Art of War,16,?,29,fa,Method
+Art of War,17,?,28,ji,Calculation
+Art of War,18,?,27,li,Advantage
+Art of War,19,?,26,xing,Act
+Art of War,20,?,24,xing,Form
+Analects,1,?,312,zi,Master
+Analects,2,?,148,jun,Ruler
+Analects,3,?,143,ren,Person
+Analects,4,?,132,ren,Benevolence
+Analects,5,?,118,li,Ritual
+Analects,6,?,107,zhi,Know
+Analects,7,?,96,xue,Learning
+Analects,8,?,84,de,Virtue
+Analects,9,?,72,shan,Good
+Analects,10,?,69,xing,Conduct
+Analects,11,?,64,yi,Righteousness
+Analects,12,?,61,xin,Trust
+Analects,13,?,58,xiao,Filial piety
+Analects,14,?,52,zhong,Loyalty
+Analects,15,?,49,dao,The Way
+Analects,16,?,47,zheng,Correct
+Analects,17,?,44,ming,Name
+Analects,18,?,41,jiao,Teach
+Analects,19,?,39,xian,Worthy
+Analects,20,?,36,you,Friend
+Dao De Jing,1,?,78,dao,The Way
+Dao De Jing,2,?,44,de,Virtue
+Dao De Jing,3,?,42,wu,Non-being
+Dao De Jing,4,?,39,ming,Name
+Dao De Jing,5,?,37,tian,Heaven
+Dao De Jing,6,?,36,xia,Below
+Dao De Jing,7,?,34,shang,Above
+Dao De Jing,8,?,33,da,Great
+Dao De Jing,9,?,31,ren,Person
+Dao De Jing,10,?,28,wang,King
+Dao De Jing,11,?,27,zhi,Know
+Dao De Jing,12,?,26,shan,Good
+Dao De Jing,13,?,25,sheng,Life
+Dao De Jing,14,?,24,zi,Self
+Dao De Jing,15,?,23,you,Being
+Dao De Jing,16,?,22,guo,State
+Dao De Jing,17,?,21,zhi,Govern
+Dao De Jing,18,?,20,qiang,Strong
+Dao De Jing,19,?,19,rou,Soft
+Dao De Jing,20,?,18,ruo,Weak
+Mozi,1,?,132,li,Benefit
+Mozi,2,?,128,min,People
+Mozi,3,?,121,yi,Righteousness
+Mozi,4,?,117,guo,State
+Mozi,5,?,112,tian,Heaven
+Mozi,6,?,106,wang,King
+Mozi,7,?,103,ren,Person
+Mozi,8,?,98,jian,Universal
+Mozi,9,?,94,ai,Love
+Mozi,10,?,88,gong,Attack
+Mozi,11,?,84,shang,Ruler
+Mozi,12,?,80,xia,Below
+Mozi,13,?,75,zheng,Correct
+Mozi,14,?,72,shan,Good
+Mozi,15,?,69,zhi,Govern
+Mozi,16,?,66,yong,Use
+Mozi,17,?,63,zhi,Know
+Mozi,18,?,60,xing,Act
+Mozi,19,?,57,gui,Value
+Mozi,20,?,54,qiang,Strong
+Mencius,1,?,162,wang,King
+Mencius,2,?,154,min,People
+Mencius,3,?,149,ren,Benevolence
+Mencius,4,?,143,yi,Righteousness
+Mencius,5,?,138,ren,Person
+Mencius,6,?,131,guo,State
+Mencius,7,?,124,jun,Ruler
+Mencius,8,?,118,xin,Heart
+Mencius,9,?,111,shan,Good
+Mencius,10,?,104,tian,Heaven
+Mencius,11,?,97,xing,Act
+Mencius,12,?,91,dao,The Way
+Mencius,13,?,84,de,Virtue
+Mencius,14,?,78,shang,Above
+Mencius,15,?,74,xia,Below
+Mencius,16,?,69,zhi,Govern
+Mencius,17,?,63,shi,Food
+Mencius,18,?,60,yang,Nourish
+Mencius,19,?,58,gui,Noble
+Mencius,20,?,55,zheng,Correct
+Han Feizi,1,?,201,fa,Law
+Han Feizi,2,?,188,jun,Ruler
+Han Feizi,3,?,176,ren,Person
+Han Feizi,4,?,165,chen,Minister
+Han Feizi,5,?,159,guo,State
+Han Feizi,6,?,142,shu,Technique
+Han Feizi,7,?,138,xing,Punishment
+Han Feizi,8,?,132,ming,Name
+Han Feizi,9,?,126,shi,Reality
+Han Feizi,10,?,118,shang,Ruler
+Han Feizi,11,?,114,xia,Below
+Han Feizi,12,?,109,zhi,Govern
+Han Feizi,13,?,103,qiang,Strong
+Han Feizi,14,?,97,li,Advantage
+Han Feizi,15,?,92,xin,Trust
+Han Feizi,16,?,88,xing,Act
+Han Feizi,17,?,84,yong,Use
+Han Feizi,18,?,80,zhi,Know
+Han Feizi,19,?,76,di,Enemy
+Han Feizi,20,?,72,shi,Power
+Zhuangzi,1,?,184,ren,Person
+Zhuangzi,2,?,162,zhi,Know
+Zhuangzi,3,?,148,dao,The Way
+Zhuangzi,4,?,132,tian,Heaven
+Zhuangzi,5,?,121,sheng,Life
+Zhuangzi,6,?,113,xin,Heart-mind
+Zhuangzi,7,?,108,da,Great
+Zhuangzi,8,?,102,ming,Name
+Zhuangzi,9,?,97,wu,Things
+Zhuangzi,10,?,93,de,Virtue
+Zhuangzi,11,?,88,zhen,TRUE
+Zhuangzi,12,?,84,zi,Self
+Zhuangzi,13,?,79,xing,Act
+Zhuangzi,14,?,75,de,Attain
+Zhuangzi,15,?,72,wu,Non-being
+Zhuangzi,16,?,69,you,Being
+Zhuangzi,17,?,64,xing,Form
+Zhuangzi,18,?,61,shen,Spirit
+Zhuangzi,19,?,58,hua,Transformation
+Zhuangzi,20,?,55,you,Wander
