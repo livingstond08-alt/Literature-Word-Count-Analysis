@@ -1,0 +1,201 @@
+Text,Rank,Word,Count,Source
+Republic,1,say,1838,file
+Republic,2,man,603,file
+Republic,3,true,489,file
+Republic,4,yes,445,file
+Republic,5,good,441,file
+Republic,6,state,404,file
+Republic,7,like,278,file
+Republic,8,thing,266,file
+Republic,9,certainly,238,file
+Republic,10,just,237,file
+Republic,11,soul,235,file
+Republic,12,justice,233,file
+Republic,13,let,204,file
+Republic,14,shall,196,file
+Republic,15,life,193,file
+Republic,16,nature,192,file
+Republic,17,mean,189,file
+Republic,18,way,188,file
+Republic,19,know,174,file
+Republic,20,evil,162,file
+Golden Sayings,1,thou,206,file
+Golden Sayings,2,man,196,file
+Golden Sayings,3,god,175,file
+Golden Sayings,4,thing,139,file
+Golden Sayings,5,say,128,file
+Golden Sayings,6,thee,94,file
+Golden Sayings,7,good,79,file
+Golden Sayings,8,thy,50,file
+Golden Sayings,9,life,50,file
+Golden Sayings,10,unto,46,file
+Golden Sayings,11,come,45,file
+Golden Sayings,12,know,43,file
+Golden Sayings,13,like,43,file
+Golden Sayings,14,shall,42,file
+Golden Sayings,15,body,39,file
+Golden Sayings,16,power,38,file
+Golden Sayings,17,nature,38,file
+Golden Sayings,18,free,36,file
+Golden Sayings,19,let,36,file
+Golden Sayings,20,evil,36,file
+Nicomachean Ethics,1,man,1099,file
+Nicomachean Ethics,2,good,590,file
+Nicomachean Ethics,3,thing,582,file
+Nicomachean Ethics,4,say,276,file
+Nicomachean Ethics,5,people,256,file
+Nicomachean Ethics,6,act,246,file
+Nicomachean Ethics,7,friend,239,file
+Nicomachean Ethics,8,pleasure,234,file
+Nicomachean Ethics,9,virtue,229,file
+Nicomachean Ethics,10,doe,214,file
+Nicomachean Ethics,11,friendship,196,file
+Nicomachean Ethics,12,kind,193,file
+Nicomachean Ethics,13,action,177,file
+Nicomachean Ethics,14,thought,174,file
+Nicomachean Ethics,15,nature,164,file
+Nicomachean Ethics,16,just,162,file
+Nicomachean Ethics,17,object,155,file
+Nicomachean Ethics,18,reason,154,file
+Nicomachean Ethics,19,right,152,file
+Nicomachean Ethics,20,activity,147,file
+Rubaiyat,1,font,32,file
+Rubaiyat,2,color,17,file
+Rubaiyat,3,shall,14,file
+Rubaiyat,4,say,13,file
+Rubaiyat,5,know,13,file
+Rubaiyat,6,wine,12,file
+Rubaiyat,7,like,12,file
+Rubaiyat,8,earth,12,file
+Rubaiyat,9,cup,11,file
+Rubaiyat,10,rose,10,file
+Rubaiyat,11,life,10,file
+Rubaiyat,12,classic,9,file
+Rubaiyat,13,lip,9,file
+Rubaiyat,14,day,9,file
+Rubaiyat,15,make,9,file
+Rubaiyat,16,soul,8,file
+Rubaiyat,17,morrow,8,file
+Rubaiyat,18,dust,8,file
+Rubaiyat,19,drink,8,file
+Rubaiyat,20,door,7,file
+Gulistan,1,say,652,file
+Gulistan,2,thou,497,file
+Gulistan,3,man,475,file
+Gulistan,4,thy,263,file
+Gulistan,5,story,195,file
+Gulistan,6,thee,155,file
+Gulistan,7,hand,148,file
+Gulistan,8,king,144,file
+Gulistan,9,like,128,file
+Gulistan,10,friend,113,file
+Gulistan,11,heart,113,file
+Gulistan,12,good,112,file
+Gulistan,13,hast,109,file
+Gulistan,14,dervish,108,file
+Gulistan,15,day,101,file
+Gulistan,16,world,97,file
+Gulistan,17,maxim,94,file
+Gulistan,18,life,93,file
+Gulistan,19,people,85,file
+Gulistan,20,having,84,file
+Beyond Good and Evil,1,man,367,file
+Beyond Good and Evil,2,good,143,file
+Beyond Good and Evil,3,say,141,file
+Beyond Good and Evil,4,german,125,file
+Beyond Good and Evil,5,philosopher,122,file
+Beyond Good and Evil,6,work,112,file
+Beyond Good and Evil,7,soul,110,file
+Beyond Good and Evil,8,thing,108,file
+Beyond Good and Evil,9,like,108,file
+Beyond Good and Evil,10,spirit,105,file
+Beyond Good and Evil,11,woman,103,file
+Beyond Good and Evil,12,moral,102,file
+Beyond Good and Evil,13,new,101,file
+Beyond Good and Evil,14,doe,98,file
+Beyond Good and Evil,15,morality,95,file
+Beyond Good and Evil,16,gutenberg,93,file
+Beyond Good and Evil,17,self,93,file
+Beyond Good and Evil,18,know,92,file
+Beyond Good and Evil,19,life,91,file
+Beyond Good and Evil,20,mean,90,file
+Gallic Wars,1,caesar,486,file
+Gallic Wars,2,chapter,402,file
+Gallic Wars,3,man,372,file
+Gallic Wars,4,enemy,372,file
+Gallic Wars,5,having,367,file
+Gallic Wars,6,camp,311,file
+Gallic Wars,7,gaul,309,file
+Gallic Wars,8,great,299,file
+Gallic Wars,9,legion,244,file
+Gallic Wars,10,day,226,file
+Gallic Wars,11,roman,220,file
+Gallic Wars,12,war,218,file
+Gallic Wars,13,army,199,file
+Gallic Wars,14,soldier,191,file
+Gallic Wars,15,time,189,file
+Gallic Wars,16,number,182,file
+Gallic Wars,17,cavalry,177,file
+Gallic Wars,18,thing,163,file
+Gallic Wars,19,place,163,file
+Gallic Wars,20,town,162,file
+Communist Manifesto,1,class,220,file
+Communist Manifesto,2,society,161,file
+Communist Manifesto,3,bourgeoi,158,file
+Communist Manifesto,4,communist,138,file
+Communist Manifesto,5,proletariat,134,file
+Communist Manifesto,6,property,132,file
+Communist Manifesto,7,bourgeoisie,132,file
+Communist Manifesto,8,production,115,file
+Communist Manifesto,9,working,108,file
+Communist Manifesto,10,proletarian,100,file
+Communist Manifesto,11,industry,99,file
+Communist Manifesto,12,condition,88,file
+Communist Manifesto,13,worker,83,file
+Communist Manifesto,14,revolution,82,file
+Communist Manifesto,15,social,80,file
+Communist Manifesto,16,manifesto,79,file
+Communist Manifesto,17,country,78,file
+Communist Manifesto,18,state,77,file
+Communist Manifesto,19,form,76,file
+Communist Manifesto,20,time,76,file
+Odyssey Book I,1,god,33,chat
+Odyssey Book I,2,ulysses,28,chat
+Odyssey Book I,3,father,26,chat
+Odyssey Book I,4,house,24,chat
+Odyssey Book I,5,suitor,23,chat
+Odyssey Book I,6,man,21,chat
+Odyssey Book I,7,come,19,chat
+Odyssey Book I,8,home,18,chat
+Odyssey Book I,9,son,17,chat
+Odyssey Book I,10,tell,16,chat
+Odyssey Book I,11,minerva,15,chat
+Odyssey Book I,12,telemachus,15,chat
+Odyssey Book I,13,say,14,chat
+Odyssey Book I,14,return,13,chat
+Odyssey Book I,15,go,12,chat
+Odyssey Book I,16,people,12,chat
+Odyssey Book I,17,sea,11,chat
+Odyssey Book I,18,day,10,chat
+Odyssey Book I,19,ship,10,chat
+Odyssey Book I,20,feast,9,chat
+Magna Carta,1,man,76,chat
+Magna Carta,2,land,63,chat
+Magna Carta,3,baron,58,chat
+Magna Carta,4,heir,54,chat
+Magna Carta,5,justice,47,chat
+Magna Carta,6,kingdom,45,chat
+Magna Carta,7,service,43,chat
+Magna Carta,8,court,41,chat
+Magna Carta,9,fine,39,chat
+Magna Carta,10,free,38,chat
+Magna Carta,11,right,36,chat
+Magna Carta,12,law,34,chat
+Magna Carta,13,sheriff,31,chat
+Magna Carta,14,debt,29,chat
+Magna Carta,15,guardian,27,chat
+Magna Carta,16,widow,26,chat
+Magna Carta,17,liberty,25,chat
+Magna Carta,18,fee,24,chat
+Magna Carta,19,forest,23,chat
+Magna Carta,20,official,22,chat
